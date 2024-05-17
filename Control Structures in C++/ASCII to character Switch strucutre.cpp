@@ -1,6 +1,6 @@
 /*Write a c++ program that converts ASCII value to character and vice versa.
 if user presses 1 then convert ACII value to character.
-if user presses 1 then convert Character value to ASCII (Using Switch Structure) 
+if user presses 2 then convert Character value to ASCII (Using Switch Structure) 
 */
 
 #include<iostream>
